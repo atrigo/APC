@@ -1,2 +1,2 @@
 # APC
-Bem vindo ao repositório com material sobre o livro Aprenda a Programar com C
+Este repositório contém os materiais relativos ao livro Aprenda a Programar com C
